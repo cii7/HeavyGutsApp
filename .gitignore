@@ -215,9 +215,9 @@ pip-log.txt
 .mr.developer.cfg
 
 #Unity
-HeavyGutsApp/Temp/
-HeavyGutsApp/Library/
-HeavyGutsApp/Obj/
+Temp/
+Library/
+Obj/
  
 *.csproj
 *.unityproj
